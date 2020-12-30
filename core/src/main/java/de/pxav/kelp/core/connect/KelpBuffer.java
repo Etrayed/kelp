@@ -7,6 +7,9 @@ import java.nio.charset.StandardCharsets;
 import java.util.UUID;
 
 /**
+ * Provides external methods missing in the default
+ * {@link ByteBuf} class.
+ *
  * @author Etrayed
  */
 public class KelpBuffer {

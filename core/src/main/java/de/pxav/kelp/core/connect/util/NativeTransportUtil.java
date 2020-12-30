@@ -18,6 +18,8 @@ import io.netty.channel.socket.nio.NioSocketChannel;
 import java.util.Arrays;
 
 /**
+ * Utility class for native transports.
+ *
  * @author Etrayed
  */
 public class NativeTransportUtil {
